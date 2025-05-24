@@ -1,0 +1,33 @@
+[
+    {
+      "kode_produk": "PROD1",
+      "nama_produk": "Ayam Geprek Crispy",
+      "harga": 25000,
+      "stok": 12
+    },
+    {
+      "kode_produk": "PROD2",
+      "nama_produk": "Sate Padang",
+      "harga": 18000,
+      "stok": 0
+    },
+    {
+      "kode_produk": "PROD3",
+      "nama_produk": "Nasi Goreng Spesial",
+      "harga": 23000,
+      "stok": 15
+    },
+    {
+      "kode_produk": "PROD4",
+      "nama_produk": "Mie Ayam",
+      "harga": 22000,
+      "stok": 0
+    },
+    {
+      "kode_produk": "PROD5",
+      "nama_produk": "Ayam Bakar",
+      "harga": 27000,
+      "stok": 10
+    }
+  ]
+  
