@@ -3,19 +3,19 @@
       "id": 1,
       "name": "Ayam Geprek Crispy",
       "price": "Rp 25.000",
-      "image": "/public/img/ayam geprek.jpg"
+      "image": "/img/ayam geprek.jpg"
     },
     {
       "id": 2,
       "name": "Nasi Goreng Spesial",
       "price": "Rp 23.000",
-      "image": "public/img/nasi goreng.jpg"
+      "image": "/img/nasi goreng.jpg"
     },
     {
       "id": 3,
       "name": "Ayam Bakar ",
       "price": "Rp 27.000",
-      "image": "public/img/ayam bakar.jpeg"
+      "image": "/img/ayam bakar.jpeg"
     }
   ]
   
