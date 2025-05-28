@@ -25,7 +25,8 @@ const Register = React.lazy(() => import("./pages/auth/Register"));
 const Forgot = React.lazy(() => import("./pages/auth/Forgot"));
 const SedapGuestPage = React.lazy(() => import("./pages/guest/SedapGuestPage"));
 const GuestLayout = React.lazy(() => import("./layouts/GuestLayout")); 
-
+const Products = React.lazy(() => import("./pages/Products"));
+const ProductDetail = React.lazy(() => import("./pages/ProductDetail"))
 
 
 import Loading from "./components/Loading";
@@ -42,6 +43,8 @@ function App() {
           <Route path="/customers/add" element={<AddCustomers />} />
           <Route path="/orders/add" element={<AddOrders />} />
           <Route path="/users" element={<Users />} /> 
+          <Route path="products" element={<Products />} />
+          <Route path="/products/:id" element={<ProductDetail />} /> 
           <Route path="/users/add" element={<AddUsers />} /> 
           <Route path="/Error-400" element={<ErrorA />} />
           <Route path="/Error-401" element={<ErrorB />} />
